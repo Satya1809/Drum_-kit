@@ -11,4 +11,7 @@ It includes (not in any order);
 - DOM Keyboard Event Listener
 - JavaScript Callback Functions
 - Animation using JavaScript
+
+- This Is the Preview Of This Project.
+- 
 ![Screenshot (87)](https://github.com/user-attachments/assets/0f3cd1a0-94b0-4c7e-acee-5327360f08dc)
